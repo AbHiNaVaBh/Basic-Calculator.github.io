@@ -1,0 +1,20 @@
+.cal{
+    width:400px;
+    height: 600px;
+    background: rgb(99, 164, 210);
+    margin-left: 600px;
+}
+#screen{
+    width: 80%;
+    height: 50px;
+    margin-top: 60px;
+    margin-left:36px;
+    pointer-events: none;
+}
+.button{
+    margin-top: 35px;
+    width: 52px;
+    height: 37px;
+    margin-left: 36px;
+    background: rgb(179, 111, 216);
+}
